@@ -1,4 +1,4 @@
-from ocrusingtesseract import gang
+from OCR import gang
 
 import cv2
 import time
